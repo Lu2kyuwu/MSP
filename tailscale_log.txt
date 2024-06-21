@@ -1,0 +1,12 @@
+2024/06/21 20:36:29 logtail started
+2024/06/21 20:36:29 Program starting: v1.68.1-tf02ad8397-g8f9cb4763, Go 1.22.4: []string{"./tailscaled"}
+2024/06/21 20:36:29 LogID: 186fcf5f9f5edf7d8d5b5fad3d4b83e7b89dd2e4d780924eaecf6d2dfc7081c7
+2024/06/21 20:36:29 logpolicy: using system state directory "/var/lib/tailscale"
+2024/06/21 20:36:29 dns: resolvedIsActuallyResolver error: resolv.conf doesn't point to systemd-resolved; points to [127.0.0.53 168.63.129.16]
+2024/06/21 20:36:29 dns: [rc=resolved resolved=not-in-use ret=direct]
+2024/06/21 20:36:29 dns: using "direct" mode
+2024/06/21 20:36:29 dns: using *dns.directManager
+2024/06/21 20:36:29 flushing log.
+2024/06/21 20:36:29 logger closing down
+2024/06/21 20:36:30 logtail: upload: log upload of 585 bytes compressed failed: Post "https://log.tailscale.io/c/tailnode.log.tailscale.io/c0dde3b223fe02db745552accb26d3eefa778955a5fc212200587d73a1593566": context canceled
+2024/06/21 20:36:30 safesocket.Listen: /var/run/tailscale/tailscaled.sock: address already in use
