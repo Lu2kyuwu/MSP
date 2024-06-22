@@ -8485,3 +8485,50 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'totemic:bark_stripper'
 [05:25:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
 [05:25:57] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (351, -92), EntitySmallAsteroid['Small Asteroid'/24321, l='world', x=0.00, y=0.00, z=0.00]
 [05:25:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:26:12] [Aromabackup-Backup/INFO] [AromaBackup]: Deleted backup Backup--world--2024-06-22--02-47.zip.
+[05:26:12] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[05:26:34] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (363, -99), EntitySmallAsteroid['Small Asteroid'/24708, l='world', x=0.00, y=0.00, z=0.00]
+[05:26:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:27:09] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (362, -93), EntitySmallAsteroid['Small Asteroid'/25256, l='world', x=0.00, y=0.00, z=0.00]
+[05:27:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:27:14] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (361, -97), EntitySmallAsteroid['Small Asteroid'/25326, l='world', x=0.00, y=0.00, z=0.00]
+[05:27:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:27:14] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (361, -98), EntitySmallAsteroid['Small Asteroid'/25327, l='world', x=0.00, y=0.00, z=0.00]
+[05:27:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:27:14] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (361, -100), EntitySmallAsteroid['Small Asteroid'/25328, l='world', x=0.00, y=0.00, z=0.00]
+[05:27:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:27:14] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (361, -102), EntitySmallAsteroid['Small Asteroid'/25329, l='world', x=0.00, y=0.00, z=0.00]
+[05:27:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:30:26] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (372, -90), EntitySmallAsteroid['Small Asteroid'/35417, l='world', x=0.00, y=0.00, z=0.00]
+[05:30:26] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (372, -90), EntitySmallAsteroid['Small Asteroid'/35418, l='world', x=0.00, y=0.00, z=0.00]
+[05:30:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:30:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:30:26] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (372, -92), EntitySmallAsteroid['Small Asteroid'/35419, l='world', x=0.00, y=0.00, z=0.00]
+[05:30:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:30:26] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (372, -93), EntitySmallAsteroid['Small Asteroid'/35422, l='world', x=0.00, y=0.00, z=0.00]
+[05:30:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:30:26] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (372, -83), EntitySmallAsteroid['Small Asteroid'/35423, l='world', x=0.00, y=0.00, z=0.00]
+[05:30:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:30:26] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (372, -86), EntitySmallAsteroid['Small Asteroid'/35424, l='world', x=0.00, y=0.00, z=0.00]
+[05:30:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:30:26] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (372, -87), EntitySmallAsteroid['Small Asteroid'/35425, l='world', x=0.00, y=0.00, z=0.00]
+[05:30:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:30:49] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (384, -83), EntitySmallAsteroid['Small Asteroid'/35668, l='world', x=0.00, y=0.00, z=0.00]
+[05:30:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:31:33] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (403, -73), EntitySmallAsteroid['Small Asteroid'/36311, l='world', x=0.00, y=0.00, z=0.00]
+[05:31:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:32:26] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (421, -72), EntitySmallAsteroid['Small Asteroid'/36886, l='world', x=0.00, y=0.00, z=0.00]
+[05:32:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:32:43] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (435, -57), EntitySmallAsteroid['Small Asteroid'/37192, l='world', x=0.00, y=0.00, z=0.00]
+[05:32:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:32:44] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (429, -70), EntitySmallAsteroid['Small Asteroid'/37209, l='world', x=0.00, y=0.00, z=0.00]
+[05:32:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:32:44] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (437, -59), EntitySmallAsteroid['Small Asteroid'/37215, l='world', x=0.00, y=0.00, z=0.00]
+[05:32:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:33:09] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (429, -53), EntitySmallAsteroid['Small Asteroid'/37631, l='world', x=0.00, y=0.00, z=0.00]
+[05:33:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:36:19] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (0, 0) should be (446, -34), EntitySmallAsteroid['Small Asteroid'/39080, l='world', x=0.00, y=0.00, z=0.00]
+[05:36:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity galacticraftplanets:small_asteroid but it was marked as removed already
+[05:36:25] [Server thread/INFO] [journeymap]: luky joining dimension 0
+[05:36:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:sheep that already exists with UUID a88231bc-9585-4521-b55d-f97e2f0492ae
+[05:36:30] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3687ms behind, skipping 73 tick(s)
